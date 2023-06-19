@@ -1,7 +1,7 @@
 # Hi there, I'm Matthew Hammel 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/matthew-hammel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://devry-port.web.app)
 
 ## About Me
 Goal-oriented professional with a strong commitment to collaboration and solutions-oriented problem-solving. Seeking a position in the field of cyber security where I can utilize my knowledge and skills to protect information systems and mitigate security risks. Proficient in various programming languages and experienced in ethical hacking, cloud security, malware analysis, and information security best practices. Dean's List recipient at DeVry University.
