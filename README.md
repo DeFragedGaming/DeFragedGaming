@@ -21,15 +21,10 @@ I'm a passionate cybersecurity professional based in Douglas, Arizona. I special
 
 ## Projects
 
-
-### [Project 2]
-
-
 ## Contributions
 
-
 ## GitHub Stats
-![Matthew Hammel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Matthew Hammel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeFragedGaming&show_icons=true&theme=dark)
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/matthew-hammel/
