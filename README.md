@@ -20,26 +20,20 @@ I'm a passionate cybersecurity professional based in Douglas, Arizona. I special
 - Libraries: React, Redux, SQLite3
 
 ## Projects
-### [Project 1]
-- Description: [Brief description of the project]
-- Technologies Used: [Technologies used in the project]
-- GitHub Repository: [Link to the repository]
+
 
 ### [Project 2]
-- Description: [Brief description of the project]
-- Technologies Used: [Technologies used in the project]
-- GitHub Repository: [Link to the repository]
+
 
 ## Contributions
-- [Open Source Project 1](https://github.com/organization/project1) - [Your contributions and impact]
-- [Open Source Project 2](https://github.com/organization/project2) - [Your contributions and impact]
+
 
 ## GitHub Stats
 ![Matthew Hammel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile Link]
-- Email: [Your Email Address]
+- LinkedIn: https://www.linkedin.com/in/matthew-hammel/
+- Email: mattyhammel17@gmail.com
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat!
 
