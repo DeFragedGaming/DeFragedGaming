@@ -42,21 +42,8 @@ Final‑semester BS Cybersecurity student with a builder‑first mindset.
 
 ## ACHIEVEMENTS
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=defragedgaming&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=defragedgaming&theme=onedark&no-frame=true)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=defragedgaming&theme=tokyo-night&hide_border=true)
-
----
-
-## LINKS
-[LinkedIn](https://www.linkedin.com/in/matthew-hammel)  
-[GitHub](https://github.com/DeFragedGaming)
-
----
-
-## ACHIEVEMENTS
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=defragedgaming&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=defragedgaming&theme=tokyo-night&hide_border=true)
 
