@@ -42,7 +42,8 @@ Final‑semester BS Cybersecurity student with a builder‑first mindset.
 
 ## ACHIEVEMENTS
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=defragedgaming&theme=tokyonight&no-frame=true)
+![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=defragedgaming&theme=tokyonight)
+
 
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=defragedgaming&theme=tokyo-night&hide_border=true)
