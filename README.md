@@ -1,34 +1,53 @@
-# Hi there, I'm Matthew Hammel 👋
+> CYBERTRACE // OPERATOR PROFILE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/matthew-hammel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://defragedgaming.github.io/)
+# MATTHEW HAMMEL
+### Security Engineering • Cyber Range Development • Simulation Architect
 
-## About Me
-Goal-oriented professional with a strong commitment to collaboration and solutions-oriented problem-solving. Seeking a position in the field of cyber security where I can utilize my knowledge and skills to protect information systems and mitigate security risks. Proficient in various programming languages and experienced in ethical hacking, cloud security, malware analysis, and information security best practices. Dean's List recipient at DeVry University.
+Focused on building realistic, phase‑driven cybersecurity tools with a polished, recruiter‑ready presentation.  
+Driven by offensive security, cloud security, malware analysis, and hands‑on simulation development.  
+Final‑semester BS Cybersecurity student with a builder‑first mindset.
 
-I'm a passionate cybersecurity professional based in Douglas, Arizona. I specialize in operating systems like Kali and Ubuntu Linux, and I have expertise in ethical hacking, cloud security, malware analysis, data analysis, information security, and networking.
+---
 
-## Skills
-- Operating Systems: Kali, Ubuntu Linux
-- Programming Languages: Python, HTML, CSS, JavaScript, Java, PHP, PowerShell, C
-- Tools and Technologies: Ethical Hacking, Cloud Security, Malware Analysis, Data Analysis, Information Security, Networking
-- Security: Security Management, Infrastructure Security, Risk Assessment, Vulnerability Assessment, Incident Response
-- Frameworks: Express
-- Backend: Node.js
-- Version Control: Git, GitHub
-- IDEs: Visual Studio Code, Sublime Text, Atom
-- Libraries: React, Redux, SQLite3
+## CURRENT MISSIONS
+- BS Cybersecurity — Final Semester  
+- Ultra Lab + CyberTrace ecosystem development  
+- Realistic attack‑chain simulators  
+- Public‑facing tools with professional polish  
 
-## Projects
+---
 
-## Contributions
+# SKILLS GRID — CYBERTRACE OPS DASHBOARD
 
-## GitHub Stats
-![Matthew Hammel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeFragedGaming&show_icons=true&theme=dark)
+| Domain | Skills |
+|--------|--------|
+| **Languages** | Python, JavaScript, Java, PHP, PowerShell, Bash |
+| **Frontend** | React, Angular, Redux, HTML, CSS, Bootstrap |
+| **Backend & APIs** | Node.js, Express, REST APIs |
+| **Databases** | MySQL, SQLite3, MongoDB, Microsoft SQL Server |
+| **Cloud & Infra** | AWS, Docker, Cloud Security, Infrastructure Security |
+| **Security** | Kali Linux, Ethical Hacking, Vulnerability Assessment, Malware Analysis, Incident Response, Risk Assessment, Networking Security, Information Security |
+| **Operating Systems** | Ubuntu Linux, Windows |
+| **Tools** | Git, GitHub, Visual Studio Code, Sublime Text, Atom |
 
-## Get in Touch
-- LinkedIn: https://www.linkedin.com/in/matthew-hammel/
-- Email: mattyhammel17@gmail.com
+---
 
-Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat!
+## GITHUB DASHBOARD
 
+![Stats](https://github-readme-stats.vercel.app/api?username=defragedgaming&show_icons=true&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defragedgaming&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=defragedgaming&theme=tokyonight&hide_border=true)
+
+---
+
+## ACHIEVEMENTS
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=defragedgaming&theme=tokyonight&no-frame=true&row=1&column=6)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=defragedgaming&theme=tokyo-night&hide_border=true)
+
+---
+
+## LINKS
+[LinkedIn](https://www.linkedin.com/in/matthew-hammel)  
+[GitHub](https://github.com/DeFragedGaming)
