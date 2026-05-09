@@ -10,24 +10,25 @@ Final‑semester BS Cybersecurity student with a builder‑first mindset.
 ---
 
 ## CURRENT MISSIONS
-- BS Cybersecurity — Final Semester  
-- Ultra Lab + CyberTrace ecosystem development  
+- BS Cybersecurity — Graduated April 2026
+- Lab + CyberTrace ecosystem development  
 - Realistic attack‑chain simulators  
 - Public‑facing tools with professional polish  
-
+- Voxels of the Abyss (Unity Game Programmed in C#)
+- Website Updates and upgrades
 ---
 
 # SKILLS GRID — CYBERTRACE OPS DASHBOARD
 
 | Domain | Skills |
 |--------|--------|
-| **Languages** | Python, JavaScript, Java, PHP, PowerShell, Bash |
+| **Languages** | Python, JavaScript, Java, PHP, PowerShell, Bash, C#, C++ |
 | **Frontend** | React, Angular, Redux, HTML, CSS, Bootstrap |
 | **Backend & APIs** | Node.js, Express, REST APIs |
 | **Databases** | MySQL, SQLite3, MongoDB, Microsoft SQL Server |
 | **Cloud & Infra** | AWS, Docker, Cloud Security, Infrastructure Security |
 | **Security** | Kali Linux, Ethical Hacking, Vulnerability Assessment, Malware Analysis, Incident Response, Risk Assessment, Networking Security, Information Security |
-| **Operating Systems** | Ubuntu Linux, Windows |
+| **Operating Systems** | Ubuntu Linux, Kali Linux, ParrotOS, Windows |
 | **Tools** | Git, GitHub, Visual Studio Code, Sublime Text, Atom |
 
 ---
